@@ -1,0 +1,4 @@
+Aqui irá toda la documentación del proyecto
+
+
+1. Primero se inicializaron las carpetas de front y back, se creó la base de datos con sus respectivos atributos y se subió el proyecto a github
